@@ -1,0 +1,7 @@
+
+body{
+	margin-top: 200px;
+	text-align: center;
+	display: flex;
+	justify-content: space-around;
+}
