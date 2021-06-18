@@ -1,0 +1,10 @@
+body{
+	text-align:center;
+}
+
+#div{
+	padding:10px;
+	border-style: groove;
+	text-align:center;
+	width:500px
+}
